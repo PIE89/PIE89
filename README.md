@@ -32,4 +32,16 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/PIE89"><img src="https://github-readme-stats.vercel.app/api?username=PIE89&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PIE89's GitHub stats" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pie89&label=Profile%20views&color=0e75b6&style=flat" alt="pie89" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pie89" alt="pie89" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pie89&show_icons=true&locale=en&layout=compact" alt="pie89" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pie89&show_icons=true&locale=en" alt="pie89" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pie89&" alt="pie89" /></p>
