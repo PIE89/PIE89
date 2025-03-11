@@ -32,8 +32,6 @@
 
 <b>My GitHub Stats</b>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pie89&label=Profile%20views&color=0e75b6&style=flat" alt="pie89" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pie89" alt="pie89" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
