@@ -1,7 +1,6 @@
 # Hi all! My name is Ivan and i greet you on my GitHub profile <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 
-
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm Frontend developer from Saint-Petersburg
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9vaXljc25pODFweGpsc3RwYWJlNnAzdjM2bTlobXBvbG5xazh6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xonOzxf2M8hNu/giphy.gif" width="200">
@@ -11,7 +10,7 @@
 
 * 💻  I use daily: JS, React, Next.js, TypeScript
 * 🌍  I'm based in Saint-Petersburg
-* 🖥️  See my portfolio at [My web-site](http://http://a91199zg.beget.tech)
+* 🖥️  See my portfolio at [My web-site](http://a91199zg.beget.tech)
 * 🧠  I'm learning Next.js
 * ⚡  Let's make world happy!
 
