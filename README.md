@@ -2,8 +2,7 @@
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm Frontend developer from Saint-Petersburg
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9vaXljc25pODFweGpsc3RwYWJlNnAzdjM2bTlobXBvbG5xazh6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xonOzxf2M8hNu/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9vaXljc25pODFweGpsc3RwYWJlNnAzdjM2bTlobXBvbG5xazh6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xonOzxf2M8hNu/giphy.gif" width="200">
 
 
 🏦 Hi 👋 My name is Ivan Popov! I'm Frontend developer.
